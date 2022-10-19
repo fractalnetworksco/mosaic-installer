@@ -1,0 +1,16 @@
+appId: co.fractalnetworks.mosaic
+productName: Mosaic
+copyright: Copyright © 2022 Fractal Networks
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
+win:
+  icon: icon.ico
+nsis:
+  include: build/installer.nsh
