@@ -26,3 +26,4 @@ yarn && npx nextron build --win --x64
 ## Windows Packaging Resources
 - https://www.electron.build/configuration/appx
 - https://stefanwick.com/2018/10/01/app-elevation-samples-part-1/
+- https://cloudbytes.dev/snippets/how-to-install-multiple-instances-of-ubuntu-in-wsl2
